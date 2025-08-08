@@ -33,4 +33,4 @@ No setup required.
 ## 👤 Author
 
 **Zaib**  
-[GitHub]()
+[GitHub](https://github.com/m0hammadzaib)
