@@ -21,7 +21,13 @@
       width: 300px;
       font-size: 30px;
       font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
   }
+button:hover{
+  background-color:rgba(253, 0, 0, 0.763) ;
+    transform: scale(1.03);
+}
 
   @media (min-width: 320px) and (max-width: 1200px) {
       body {
